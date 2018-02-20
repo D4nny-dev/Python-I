@@ -1,0 +1,4 @@
+name = "julio verne"
+print(name.lower())
+print(name.upper())
+print(name.title())
