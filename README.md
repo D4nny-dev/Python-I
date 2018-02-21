@@ -2,7 +2,10 @@
 
 - [x]  Getting Started
 - [x]  Variables and Simple Data Types
-- [ ]  Introducing Lists
+- [x]  Introducing Lists
+- [x]  Working with Lists 
+- [x]  If Statements
+- [ ]  Dictionaries
 
 ## Resources 
 
@@ -14,3 +17,6 @@ https://code.visualstudio.com/docs/editor/codebasics
 
 ######  Install Python 3 ,Pip and Pipenv
 http://docs.python-guide.org/en/latest/starting/install3/osx/
+
+###### PEP 8 -- Style Guide for Python Code
+https://www.python.org/dev/peps/pep-0008/
