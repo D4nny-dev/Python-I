@@ -5,7 +5,9 @@
 - [x]  Introducing Lists
 - [x]  Working with Lists 
 - [x]  If Statements
-- [ ]  Dictionaries
+- [x]  Dictionaries
+- [x]  While loop and inputs
+- [ ]  Funtions
 
 ## Resources 
 
