@@ -7,7 +7,8 @@
 - [x]  If Statements
 - [x]  Dictionaries
 - [x]  While loop and inputs
-- [ ]  Funtions
+- [x]  Funtions
+- [ ]  Classes
 
 ## Resources 
 
