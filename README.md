@@ -8,7 +8,8 @@
 - [x]  Dictionaries
 - [x]  While loop and inputs
 - [x]  Funtions
-- [ ]  Classes
+- [x]  Classes
+- [ ]  Files and exceptions
 
 ## Resources 
 
