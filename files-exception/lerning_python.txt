@@ -1,0 +1,3 @@
+In Python you can working with list
+In Python you can use conditionals
+In Python you can working with dicionaries
