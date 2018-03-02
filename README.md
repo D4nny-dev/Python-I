@@ -10,7 +10,8 @@
 - [x]  Funtions
 - [x]  Classes
 - [x]  Files and exceptions
-- [ ]  Testing your Code
+- [x]  Testing your Code
+- [ ]  Proyect I
 
 ## Resources 
 
