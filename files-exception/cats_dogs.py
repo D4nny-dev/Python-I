@@ -13,9 +13,3 @@ try:
 
 except FileNotFoundError as f:
     print("File " + str(f.filename)+" no exit, or is in another rute")
-
-
-
-
-
-

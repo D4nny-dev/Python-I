@@ -9,7 +9,8 @@
 - [x]  While loop and inputs
 - [x]  Funtions
 - [x]  Classes
-- [ ]  Files and exceptions
+- [x]  Files and exceptions
+- [ ]  Testing your Code
 
 ## Resources 
 
